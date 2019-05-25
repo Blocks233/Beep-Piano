@@ -1,0 +1,12 @@
+一个无聊的钢琴模拟器 by Blocks233
+
+键盘区域见键位表
+
+______________________________________________________
+核心函数 Beep,GetKeyState()
+编译器 TDM-GCC 4.9.2 64-bit Release
+翻译 Google翻译
+
+Core function Beep, GetKeyState()
+Compiler TDM-GCC 4.9.2 64-bit Release
+Translater Google Translate
